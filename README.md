@@ -18,8 +18,6 @@
           
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=r0binh0&show_icons=true&theme=transparent)
-
 
 
 <!--
